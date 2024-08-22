@@ -1,6 +1,6 @@
-Documentation
+Documentation:
 
-Installing
+Installation:
 
 Go to your project directory and create a virtual env to run flask app:
 
